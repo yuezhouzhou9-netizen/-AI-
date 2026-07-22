@@ -1,4 +1,4 @@
-下面是一篇可直接作为仓库 README 补充文档或发布文章的使用说明。
+<img width="1216" height="832" alt="三维图" src="https://github.com/user-attachments/assets/2e4982e1-f4ea-4936-ba32-8f7b652c3bdd" />下面是一篇可直接作为仓库 README 补充文档或发布文章的使用说明。
 
 # 运宝小七正文配图 Skill 使用说明
 
@@ -28,6 +28,8 @@
 - 希望建立稳定个人视觉识别的内容账号
 
 它不适合用于复杂架构图、传统 PPT 信息图、商业海报、品牌 KV，或需要严格可编辑矢量文件的场景。
+
+![Uploading 三维图.png…]
 
 ## 输出风格
 
